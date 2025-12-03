@@ -13,13 +13,10 @@
 
 <div align="center">
   <!-- Contact / Social badges (edit links as needed) -->
-  <a href="https://www.linkedin.com/in/your-linkedin-id">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your_twitter_handle">
+  <a href="https://x.com/cheenu080">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.chandreshpandey.uip@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Email" />
   </a>
 </div>
